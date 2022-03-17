@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_home" value="name:id_reservasi;datatype:string,name:nama_tamu;datatype:string,name:jumlah_tamu;datatype:string,name:jumlah_hari;datatype:string,name:tipe_kamar;datatype:string,name:tgl_reservasi;datatype:date,name:tgl_check_in;datatype:date,name:tgl_check_out;datatype:date,name:harga;datatype:string,name:id_resepsionis;datatype:string,name:no_kamar;datatype:string,name:id_tamu;datatype:string" />
+</info>
