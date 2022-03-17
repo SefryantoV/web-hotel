@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_fasilitas" value="name:fasilitastambahan;datatype:string" />
+	<infoitem key="UD_fasilitashotel" value="name:fasilitastambahan;datatype:string,name:fasilitas;datatype:string" />
+</info>

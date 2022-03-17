@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_kamartambah" value="name:gambarkamar;datatype:blob,name:keterangankamar;datatype:string" />
+	<infoitem key="UD_kamaradmin" value="name:kamarspesial;datatype:string,name:keterangankamar;datatype:string" />
+</info>
