@@ -1,4 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<info>
-	<infoitem key="UD_tamu" value="name:id_tamu;datatype:string,name:nik;datatype:string,name:alamat;datatype:string,name:nama_tamu;datatype:string,name:no_telp;datatype:string" />
-</info>
