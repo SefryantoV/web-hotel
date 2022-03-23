@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_kamaredit" value="name:kamarspesial;datatype:string,name:keterangankamar;datatype:string" />
+	<infoitem key="UD_kamarhotel" value="name:kamarspesial;datatype:string,name:keterangankamar;datatype:string" />
+</info>
